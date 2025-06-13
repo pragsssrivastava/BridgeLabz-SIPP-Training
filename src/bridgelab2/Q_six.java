@@ -1,0 +1,13 @@
+package bridgelab2;
+
+public class Q_six {
+	public static void main(String [] args) {
+		double fee = 125000;
+        double discountPercent = 10;
+        double discount = (fee * discountPercent) / 100;
+        double finalFee = fee - discount;
+        System.out.println("the discount is" + discount + 
+        		"The final fee is " + finalFee ); 
+	}
+
+}
