@@ -4,5 +4,5 @@
 /**
  * 
  */
-module bridgelab2 {
+module Strings {
 }
